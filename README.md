@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Debasish
-- 👀 I’m interested in ...ML & Data Analytics
-- 🌱 I’m currently learning ...Python and SQL
+- 👀 I’m interested in ...ML & Data Science
+- 🌱 I’m currently learning ...Machine learning & SQL 
 - 📫 How to reach me ...iamdebasishdas123@gmail.com
 
 <!---
