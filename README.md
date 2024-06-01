@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Debasish
-- 👀 I’m interested in ...ML & Data Science
+- 👋 Hi, I’m Debasish Das
+- Currently, I am doing my master's (M.SC) in Mathematics & Computing from IIT (ISM) Dhanbad
+- 👀 I’m interested in ...Data Science
 - 🌱 I’m currently learning ...Machine learning & SQL 
 - 📫 How to reach me ...iamdebasishdas123@gmail.com
 
