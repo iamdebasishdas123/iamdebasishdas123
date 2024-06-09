@@ -19,7 +19,7 @@
 |--------------------------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | **Credit Risk ML Model** | This project aims to develop a predictive model to classify prospective customers based on their likelihood of getting approved for credit. | [Link](https://github.com/iamdebasishdas123/Credit_Risk_Machine_Learning_Model.git)            |
 | **Scam Email Classifier**| In this project, we aim to build a machine-learning model that can accurately distinguish between spam and ham (non-spam) messages. | [Link](https://github.com/iamdebasishdas123/Scam_Email_Cassifier.git)                          |
-| **Datasets EDA**  | Data Cleaning, EDA, Feature Engineering.                                                                  | [Link](https://github.com/iamdebasishdas123/Titanic_Dataset_EDA.git)                           |
+| **Titanic Survival Prediction**  |  In this project, we aim to build a machine-learning model that can accurately distinguish between 0 and 1   | [Link](https://github.com/iamdebasishdas123/Titanic_Dataset_EDA.git)                           |
 
 ---
 
@@ -28,7 +28,7 @@
 | Platform   | Link                                                                 |
 |------------|----------------------------------------------------------------------|
 | **Email**  | [iamdebasishdas123@gmail.com](mailto:iamdebasishdas123@gmail.com)    |
-| **Resume** | [View My Resume](https://link-to-your-resume.com)                    |
+| **Resume** | [View My Resume](https://drive.google.com/file/d/1MZNm1G2daJG4IVkKA8f8iShvHthd2Ub2/view?usp=sharing)                |
 | **Portfolio** | [Visit My Portfolio](https://sites.google.com/view/iamdebasish123/home) |
 | **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/debasish-das-543513285/) |
 
