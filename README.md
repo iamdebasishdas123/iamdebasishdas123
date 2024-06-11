@@ -5,6 +5,8 @@
 🌱 I’m currently learning Deep Learning & Power BI  
 📫 How to reach me: [iamdebasishdas123@gmail.com](mailto:iamdebasishdas123@gmail.com)
 
+![Profile_view](https://komarev.com/ghpvc/?username=iamdebasishdas123&label=PROFILE+VIEWS)
+
 ---
 
 ## About Me
