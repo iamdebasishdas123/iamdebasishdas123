@@ -33,6 +33,7 @@
 | **Resume** | [View My Resume](https://drive.google.com/file/d/1MZNm1G2daJG4IVkKA8f8iShvHthd2Ub2/view?usp=sharing)                |
 | **Portfolio** | [Visit My Portfolio](https://sites.google.com/view/iamdebasish123/home) |
 | **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/debasish-das-543513285/) |
+| **Blog** | [Mediumn_Blog](https://medium.com/@iamdebasishdas123) |
 
 ---
 
