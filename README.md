@@ -34,6 +34,7 @@
 | **Portfolio** | [Visit My Portfolio](https://sites.google.com/view/iamdebasish123/home) |
 | **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/debasish-das-543513285/) |
 | **Blog** | [Mediumn_Blog](https://medium.com/@iamdebasishdas123) |
+| **Kaggle** | [Kaggle](https://www.kaggle.com/iamdebasishdas) |
 
 ---
 
