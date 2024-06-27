@@ -17,26 +17,24 @@
 
 ## Top Projects
 
-| Project                  | Description                                                                                               | Link                                                                                           |
-|--------------------------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| **Credit Risk ML Model** | This project aims to develop a predictive model to classify prospective customers based on their likelihood of getting approved for credit. | [Link](https://github.com/iamdebasishdas123/Credit_Risk_Machine_Learning_Model.git)            |
-| **Scam Email Classifier**| In this project, we aim to build a machine-learning model that can accurately distinguish between spam and ham (non-spam) messages. | [Link](https://github.com/iamdebasishdas123/Scam_Email_Cassifier.git)                          |
-| **SageMaker_Flight_Prediction**  |  In this project, we aim to build a machine-learning model that can Predict Flight Price  | [Link](https://github.com/iamdebasishdas123/SageMaker_Flight_Prediction.git)                   |
+| Project                        | Description                                                                                     | Link                                                                                           |
+|--------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| **Credit Risk ML Model**       | Predictive model to classify prospective customers based on their likelihood of getting approved for credit. | [GitHub](https://github.com/iamdebasishdas123/Credit_Risk_Machine_Learning_Model.git)            |
+| **Scam Email Classifier**      | Machine learning model to distinguish between spam and non-spam messages.                     | [GitHub](https://github.com/iamdebasishdas123/Scam_Email_Cassifier.git)                          |
+| **SageMaker Flight Prediction**| Predictive model to forecast flight prices.                                                    | [GitHub](https://github.com/iamdebasishdas123/SageMaker_Flight_Prediction.git)                   |
 
 ---
 
-# Get In Touch
+## Get In Touch
 
-| Platform   | Link                                                                 |
-|------------|----------------------------------------------------------------------|
-| **Email**  | [iamdebasishdas123@gmail.com](mailto:iamdebasishdas123@gmail.com)    |
-| **Resume** | [View My Resume](https://drive.google.com/file/d/1MZNm1G2daJG4IVkKA8f8iShvHthd2Ub2/view?usp=sharing)                |
-| **Portfolio** | [Visit My Portfolio](https://sites.google.com/view/iamdebasish123/home) |
-| **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/debasish-das-543513285/) |
-| **Blog** | [Mediumn_Blog](https://medium.com/@iamdebasishdas123) |
-| **Kaggle** | [Kaggle](https://www.kaggle.com/iamdebasishdas) |
-
----
+| Platform      | Link                                                                              |
+|---------------|-----------------------------------------------------------------------------------|
+| **Email**     | [iamdebasishdas123@gmail.com](mailto:iamdebasishdas123@gmail.com)                 |
+| **Resume**    | [View My Resume](https://drive.google.com/file/d/1MZNm1G2daJG4IVkKA8f8iShvHthd2Ub2/view?usp=sharing) |
+| **Portfolio** | [Visit My Portfolio](https://sites.google.com/view/iamdebasish123/home)           |
+| **LinkedIn**  | [Connect on LinkedIn](https://www.linkedin.com/in/debasish-das-543513285/)        |
+| **Blog**      | [Medium Blog](https://medium.com/@iamdebasishdas123)                              |
+| **Kaggle**    | [Kaggle](https://www.kaggle.com/iamdebasishdas)                                   |
 
 For more details about my work and experience, check out my resume, explore my portfolio, or connect with me on LinkedIn!
 
@@ -44,6 +42,6 @@ For more details about my work and experience, check out my resume, explore my p
 
 ## My GitHub Stats
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamdebasishdas123) 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=iamdebasishdas123) 
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamdebasishdas123)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=iamdebasishdas123)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdebasishdas123)
