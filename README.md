@@ -20,7 +20,7 @@
 | Project                        | Description                                                                                     | Link                                                                                           |
 |--------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | **Credit Risk ML Model**       | Predictive model to classify prospective customers based on their likelihood of getting approved for credit. | [GitHub](https://github.com/iamdebasishdas123/Credit_Risk_Machine_Learning_Model.git)            |
-| **Scam Email Classifier**      | Machine learning model to distinguish between spam and non-spam messages.                     | [GitHub](https://github.com/iamdebasishdas123/Scam_Email_Cassifier.git)                          |
+| **Protecting Women from Safety Threats Using Computer Vision**      | A system leveraging deep learning and computer vision algorithms like YOLO, MediaPipe, and Transformers assesses threats to women by identifying hotspot locations, analyzing nearby gender ratios, and detecting suspects' emotions.                     | [GitHub](https://github.com/iamdebasishdas123/Protecting-Women-from-Safety-Threats-Using-Computer-Vision.git)                          |
 | **SageMaker Flight Prediction**| Predictive model to forecast flight prices.                                                    | [GitHub](https://github.com/iamdebasishdas123/SageMaker_Flight_Prediction.git)                   |
 
 ---
