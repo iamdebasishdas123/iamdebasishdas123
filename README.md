@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Debasish Das
 
 ✨ Currently, I am doing my master's (M.Sc) in Mathematics & Computing at IIT (ISM) Dhanbad  
-👀 I’m interested in Data Science
-🌱 I’m currently learning Deep Learning & NLP  & Computer Vision
+👀 I’m interested in Data Science             
+🌱 I’m currently learning Computer Vision & Transformer   
 📫 How to reach me: [iamdebasishdas123@gmail.com](mailto:iamdebasishdas123@gmail.com)
 
 ![Profile_view](https://komarev.com/ghpvc/?username=iamdebasishdas123&label=PROFILE+VIEWS)
@@ -39,6 +39,14 @@
 For more details about my work and experience, check out my resume, explore my portfolio, or connect with me on LinkedIn!
 
 ---
+## Skills
+
+- **Programming Languages:** Python, C, Data Structures and Algorithms (DSA)
+- **Libraries:** NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras
+- **Machine Learning:** Regression, Classification, Clustering, Hyperparameter Tuning
+- **Deep Learning:** CNN, ANN, RNN, LSTM, GRU
+- **Data Analysis:** SQL, Excel, Power BI, EDA
+- **Tools:** Git, GitHub, Streamlit, Jupyter
 
 ## My GitHub Stats
 
