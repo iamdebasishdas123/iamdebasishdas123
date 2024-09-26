@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Debasish Das
 <p align="center">
 <a href="https://github.com/iamdebasishdas123">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Happy+ to +see+ you+ again+ 🤝 ;Masters+Student+%7C+Mathematics + Computing ;Data science+%7C+Generative AI+%7C+AI+%7C+Computer+Vision+%7C+Deep+Learning +%7C+NLP " alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Happy+ to +see+ you+ again+ 🤝 ;Masters+Student+%7C+Mathematics + Computing ;Data Science+%7C+Generative AI+%7C+AI+%7C+Computer+Vision+%7C+NLP " alt="Typing SVG" />
 </a>
+<br/>
 <br/>
 
 <a href="https://medium.com/@iamdebasishdas123">
@@ -59,7 +60,7 @@
 | Platform      | Link                                                                              |
 |---------------|-----------------------------------------------------------------------------------|
 | **Email**     | [iamdebasishdas123@gmail.com](mailto:iamdebasishdas123@gmail.com)                 |
-| **Resume**    | [View My Resume](https://drive.google.com/file/d/1MZNm1G2daJG4IVkKA8f8iShvHthd2Ub2/view?usp=sharing) |
+| **Resume**    | [View My Resume](https://drive.google.com/file/d/1zraYhz7O9FFvhFe6KV2Qa2ybGRf_PKQR/view?usp=drive_link) |
 | **Portfolio** | [Visit My Portfolio](https://sites.google.com/view/iamdebasish123/home)           |
 | **LinkedIn**  | [Connect on LinkedIn](https://www.linkedin.com/in/debasish-das-543513285/)        |
 | **Blog**      | [Medium Blog](https://medium.com/@iamdebasishdas123)                              |
