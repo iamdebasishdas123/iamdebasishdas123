@@ -1,10 +1,39 @@
 # 👋 Hi, I’m Debasish Das
+<p align="center">
+<a href="https://github.com/iamdebasishdas123">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Happy+ to +see+ you+ again+ 🤝 ;Masters+Student+%7C+Mathematics + Computing ;Data science+%7C+Generative AI+%7C+AI+%7C+Computer+Vision+%7C+Deep+Learning +%7C+NLP " alt="Typing SVG" />
+</a>
+<br/>
 
-✨ Currently, I am doing my master's (M.Sc) in Mathematics & Computing at IIT (ISM) Dhanbad  
-👀 I’m interested in Data Science             
-🌱 I’m currently learning Computer Vision & Transformer & Mlops 
-📫 How to reach me: [iamdebasishdas123@gmail.com](mailto:iamdebasishdas123@gmail.com)
+<a href="https://medium.com/@iamdebasishdas123">
+    <img src="https://img.shields.io/badge/Blog-Medium-red?style=flat-square">
+</a>  
+<a href="https://drive.google.com/file/d/1zraYhz7O9FFvhFe6KV2Qa2ybGRf_PKQR/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/PDF-Resume-red?style=flat-square&logo=adobe">
+</a>  
+<a href="https://www.linkedin.com/in/debasish-das-543513285/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:iamdebasishdas123@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.kaggle.com/iamdebasishdas123"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle"></a>
 
+<a href="https://github.com/iamdebasishdas123">
+    <img src="https://github-stats-alpha.vercel.app/api?username=iamdebasishdas123&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+</p>
+
+---
+
+**👨‍🎓 About Me**
+
+- 📖 Pursuing **Masters in Mathematics & Computing** @ [IIT ISM DHANBAD](https://www.iitism.ac.in/)
+- 🔬 My focus on **AI** and **Computer Vision** with applications in **Deep Learning**
+- 🖥️ Currently working on **Chatbot**
+- 🌱 Exploring **Data Science**, **Machine Learning**, and **NLP** fields
+
+---
 ![Profile_view](https://komarev.com/ghpvc/?username=iamdebasishdas123&label=PROFILE+VIEWS)
 
 ---
