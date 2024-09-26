@@ -29,7 +29,7 @@
 
 **👨‍🎓 About Me**
 
-- 📖 Pursuing **Masters in Mathematics & Computing** @ [IIT ISM DHANBAD](https://www.iitism.ac.in/)
+- 📖 Pursuing **Masters in Mathematics & Computing** from @ [IIT ISM DHANBAD](https://www.iitism.ac.in/)
 - 🔬 My focus on **AI** and **Computer Vision** with applications in **Deep Learning**
 - 🖥️ Currently working on **Chatbot**
 - 🌱 Exploring **Data Science**, **Machine Learning**, and **NLP** fields
