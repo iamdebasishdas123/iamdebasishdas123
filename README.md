@@ -18,7 +18,7 @@
 <a href="mailto:iamdebasishdas123@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.kaggle.com/iamdebasishdas123"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle"></a>
+<a href="https://www.kaggle.com/iamdebasishdas"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle"></a>
 
 <a href="https://github.com/iamdebasishdas123">
     <img src="https://github-stats-alpha.vercel.app/api?username=iamdebasishdas123&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
