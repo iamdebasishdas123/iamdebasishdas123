@@ -80,6 +80,28 @@ For more details about my work and experience, check out my resume, explore my p
 
 ## My GitHub Stats
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamdebasishdas123)
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=iamdebasishdas123)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdebasishdas123)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iamdebasishdas123&limit=3&theme=radical&combine_all_yearly_contributions=true)
+
+
+<h3 align="left">GitHub Stats :</h3>
+
+
+![Debasish's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdebasishdas123&show_icons=true&theme=radical)
+![](https://nirzak-streak-stats.vercel.app/?user=iamdebasishdas123&theme=radical&hide_border=false)<br/>
+
+
+<h3 align="left">📊 My Activity Graph 📈 :</h3>
+
+
+[![Debasish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamdebasishdas123&bg_color=170210&color=f50fe6&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
