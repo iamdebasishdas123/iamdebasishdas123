@@ -41,7 +41,9 @@
 
 ## About Me
 
-#### I'm Debasish Das, pursuing my master's (M.Sc) in Mathematics and Computing at **IIT (ISM) Dhanbad**. My interest in Data Science began during my 12th grade, and I find it to be the most fascinating sector in the digital world. The idea that unused data can be transformed into incredibly useful information for various businesses is truly captivating. In today's world, data is a powerful tool, and Data Science has the potential to shape the future of technology by creating new opportunities and advancements.
+#### I am Debasish Das, a recent Master of Science (M.Sc.) graduate in Mathematics and Computing from IIT (ISM) Dhanbad. My passion for Data Science ignited during my 12th grade, and since then, I have found it to be the most fascinating sector in the digital landscape. The ability to transform unused data into actionable insights for businesses is truly captivating to me. In today’s world, data is a powerful tool, and I believe Data Science is at the forefront of shaping the future of technology by driving innovation and creating new opportunities.
+
+### I have recently qualified the GATE DA (Data Science and Artificial Intelligence) exam in 2025, further strengthening my foundation in the field. Currently, I am working as an AI/ML Engineer at Genie Bazaar Company, where I apply my knowledge and skills to develop intelligent solutions that drive business growth.
 
 ---
 
