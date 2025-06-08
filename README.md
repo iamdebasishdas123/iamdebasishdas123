@@ -49,11 +49,13 @@
 
 ## Top Projects
 
-| Project                        | Description                                                                                     | Link                                                                                           |
-|--------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| **Credit Risk ML Model**       | Predictive model to classify prospective customers based on their likelihood of getting approved for credit. | [GitHub](https://github.com/iamdebasishdas123/Credit_Risk_Machine_Learning_Model.git)            |
-| **Protecting Women from Safety Threats Using Computer Vision**      | A system leveraging deep learning and computer vision algorithms like YOLO, MediaPipe, and Transformers assesses threats to women by identifying hotspot locations, analyzing nearby gender ratios, and detecting suspects' emotions.                     | [GitHub](https://github.com/iamdebasishdas123/Protecting-Women-from-Safety-Threats-Using-Computer-Vision.git)                          |
-| **SageMaker Flight Prediction**| Predictive model to forecast flight prices.                                                    | [GitHub](https://github.com/iamdebasishdas123/SageMaker_Flight_Prediction.git)                   |
+| Project                                                   | Description                                                                                                                   | Link                                                                                                                                                  |
+|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Protecting Women from Safety Threats Using Computer Vision** | AI-powered system using YOLO, MediaPipe & Transformers to detect public safety threats—hotspots, gender ratios, emotions—and auto-trigger SOS alerts. | [GitHub](https://github.com/iamdebasishdas123/Protecting-Women-from-Safety-Threats-Using-Computer-Vision.git) |
+| **SageMaker Flight Prediction**                           | Flight price forecast solution built on AWS SageMaker—a helpful tool for travelers and analysts.                             | [GitHub](https://github.com/iamdebasishdas123/SageMaker_Flight_Prediction.git) |
+| **Credit Risk ML Model**                                  | Classification model predicting credit approval likelihood—key for financial risk analytics.                                 | [GitHub](https://github.com/iamdebasishdas123/Credit_Risk_Machine_Learning_Model.git)|
+| **Spam Email Classifier**                                 | Text-classification system using Naive Bayes to detect spam emails (includes data cleaning, feature engineering & deployment). | [GitHub](https://github.com/iamdebasishdas123/Spam_Email_Classifier.git)|
+| **Hybrid Recommendation System**                          | End-to-end hybrid recommender pipeline: data ingestion, preprocessing, and recommendation logic.                             | [GitHub](https://github.com/iamdebasishdas123/Hybrid_Recommendation_System.git)  |
 
 ---
 
