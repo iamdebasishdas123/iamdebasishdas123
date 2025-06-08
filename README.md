@@ -28,9 +28,9 @@
 ---
 
 **👨‍🎓 About Me**
-
-- 📖 Pursuing **Masters in Mathematics & Computing** from @ [IIT ISM DHANBAD](https://www.iitism.ac.in/)
-- 🔬 My focus on **AI** and **Computer Vision** with applications in **Deep Learning**
+- 🏢 Currently, I am working at Genie Bazaar as an **AI ML Engineer** 
+- 📖 Completed **Masters in Mathematics & Computing** from @ [IIT ISM DHANBAD](https://www.iitism.ac.in/)
+- 🔬 My focus on **Computer Vision & LLMs** 
 - 🖥️ Currently working on **Chatbot**
 - 🌱 Exploring **Data Science**, **Machine Learning**, and **NLP** fields
 
@@ -43,7 +43,7 @@
 
 #### I am Debasish Das, a recent Master of Science (M.Sc.) graduate in Mathematics and Computing from IIT (ISM) Dhanbad. My passion for Data Science ignited during my 12th grade, and since then, I have found it to be the most fascinating sector in the digital landscape. The ability to transform unused data into actionable insights for businesses is truly captivating to me. In today’s world, data is a powerful tool, and I believe Data Science is at the forefront of shaping the future of technology by driving innovation and creating new opportunities.
 
-### I have recently qualified the GATE DA (Data Science and Artificial Intelligence) exam in 2025, further strengthening my foundation in the field. Currently, I am working as an AI/ML Engineer at Genie Bazaar Company, where I apply my knowledge and skills to develop intelligent solutions that drive business growth.
+#### I have recently qualified the GATE DA (Data Science and Artificial Intelligence) exam in 2025, further strengthening my foundation in the field. Currently, I am working as an AI/ML Engineer at Genie Bazaar Company, where I apply my knowledge and skills to develop intelligent solutions that drive business growth.
 
 ---
 
