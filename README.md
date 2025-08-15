@@ -2,8 +2,6 @@
 <p align="center">
 <a href="https://github.com/iamdebasishdas123">
 </a>
-<br/>
-<br/>
 
 <a href="https://medium.com/@iamdebasishdas123">
     <img src="https://img.shields.io/badge/Blog-Medium-red?style=flat-square">
