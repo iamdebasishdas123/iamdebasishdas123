@@ -6,9 +6,6 @@
 <a href="https://medium.com/@iamdebasishdas123">
     <img src="https://img.shields.io/badge/Blog-Medium-red?style=flat-square">
 </a>  
-<a href="https://drive.google.com/file/d/1zraYhz7O9FFvhFe6KV2Qa2ybGRf_PKQR/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/PDF-Resume-red?style=flat-square&logo=adobe">
-</a>  
 <a href="https://www.linkedin.com/in/debasish-das-543513285/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
