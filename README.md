@@ -58,8 +58,6 @@
 | Platform      | Link                                                                              |
 |---------------|-----------------------------------------------------------------------------------|
 | **Email**     | [iamdebasishdas123@gmail.com](mailto:iamdebasishdas123@gmail.com)                 |
-| **Resume**    | [View My Resume](https://drive.google.com/file/d/1zraYhz7O9FFvhFe6KV2Qa2ybGRf_PKQR/view?usp=drive_link) |
-| **Portfolio** | [Visit My Portfolio](https://sites.google.com/view/iamdebasish123/home)           |
 | **LinkedIn**  | [Connect on LinkedIn](https://www.linkedin.com/in/debasish-das-543513285/)        |
 | **Blog**      | [Medium Blog](https://medium.com/@iamdebasishdas123)                              |
 | **Kaggle**    | [Kaggle](https://www.kaggle.com/iamdebasishdas)                                   |
