@@ -1,33 +1,26 @@
 # 👋 Hi, I’m Debasish Das
+
 <p align="center">
-<a href="https://github.com/iamdebasishdas123">
-</a>
+  <a href="https://medium.com/@iamdebasishdas123"><img src="https://img.shields.io/badge/Blog-Medium-red?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/debasish-das-543513285/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:iamdebasishdas123@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.kaggle.com/iamdebasishdas"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle"></a>
+</p>
 
-<a href="https://medium.com/@iamdebasishdas123">
-    <img src="https://img.shields.io/badge/Blog-Medium-red?style=flat-square">
-</a>  
-<a href="https://www.linkedin.com/in/debasish-das-543513285/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="mailto:iamdebasishdas123@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.kaggle.com/iamdebasishdas"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle"></a>
-
-<a href="https://github.com/iamdebasishdas123">
-    <img src="https://github-stats-alpha.vercel.app/api?username=iamdebasishdas123&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+<p align="center">
+  <a href="https://github.com/iamdebasishdas123">
+    <img src="https://streak-stats.demolab.com?user=iamdebasishdas123&theme=nightowl" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
 
 **👨‍🎓 About Me**
-- 🏢 Currently, I am working at Genie Bazaar as an **AI ML Engineer** 
+- 🏢 Currently, I am working at Genie Bazaar as an **AI ML Engineer**
 - 📖 Completed **Masters in Mathematics & Computing** from @ [IIT ISM DHANBAD](https://www.iitism.ac.in/)
-- 🔬 My focus on **Computer Vision & LLMs** 
+- 🔬 My focus on **Computer Vision & LLMs**
 - 🖥️ Currently working on **Chatbot**
 - 🌱 Exploring **Data Science**, **Machine Learning**, and **NLP** fields
-
 ---
 ![Profile_view](https://komarev.com/ghpvc/?username=iamdebasishdas123&label=PROFILE+VIEWS)
 
