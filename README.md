@@ -1,4 +1,11 @@
-# 👋 Hi, I’m Debasish Das
+<div align="center">
+<!-- Custom Web3 Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Debasish%20Das&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Optimizing%20Stochastic%20Spaces%20with%20Intelligent%20Architectures" />
+</div>
+<div align="center">
+<!-- Typing Animation -->
+
+</div>
 
 <p align="center">
   <a href="https://medium.com/@iamdebasishdas123"><img src="https://img.shields.io/badge/Blog-Medium-red?style=flat-square"></a>
