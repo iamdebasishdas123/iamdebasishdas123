@@ -76,17 +76,6 @@ For more details about my work and experience, check out my resume, explore my p
 
 ## My GitHub Stats
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iamdebasishdas123&limit=3&theme=radical&combine_all_yearly_contributions=true)
-
-
-<h3 align="left">GitHub Stats :</h3>
-
-
-![Debasish's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdebasishdas123&show_icons=true&theme=radical)
-![](https://nirzak-streak-stats.vercel.app/?user=iamdebasishdas123&theme=radical&hide_border=false)<br/>
-
-
 <h3 align="left">📊 My Activity Graph 📈 :</h3>
 
 
