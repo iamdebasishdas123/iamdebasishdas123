@@ -23,8 +23,9 @@
 ---
 
 **👨‍🎓 About Me**
+- 📅 Book Discussion on [Calendly](https://calendly.com/iamdebasishdas123/30min/)
 - 🏢 Currently, I am working at Genie Bazaar as an **AI ML Engineer**
-- 📖 Completed **Masters in Mathematics & Computing** from @ [IIT ISM DHANBAD](https://www.iitism.ac.in/)
+- 📖 Completed **Masters in Mathematics & Computing** from **IIT ISM DHANBAD**
 - 🔬 My focus on **Computer Vision & LLMs**
 - 🖥️ Currently working on **Chatbot**
 - 🌱 Exploring **Data Science**, **Machine Learning**, and **NLP** fields
